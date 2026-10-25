@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/candox-banner.png" alt="CanDoX — Technology That Moves You Forward" width="100%">
+<img src="assets/4_GitHub_Social_Preview_1280x640.png" alt="CanDoX — Technology That Moves You Forward" width="100%">
 
 # CanDoX
 
